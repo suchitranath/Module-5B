@@ -15,10 +15,9 @@ To create and display a **DataFrame** using the **Pandas** library in Python fro
 
 
 ## Program
-```
+
 ![image](https://github.com/user-attachments/assets/47040cca-66cf-4a25-8d99-395f6baef342)
 
-```
 ## Output
 ![image](https://github.com/user-attachments/assets/e77b00bc-ff9c-4bb0-bb9a-efe2e39c280c)
 
